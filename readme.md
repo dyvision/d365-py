@@ -2,7 +2,7 @@
 A nice tool to make accessing your Dynamics 365 API easier. Use in conjunction with a webserver such as Flask
 
 ## Install
-> pip install d365==0.0.1
+> pip install d365
 
 ## Examples
 
