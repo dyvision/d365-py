@@ -2,14 +2,7 @@
 A nice tool to make accessing your Dynamics 365 API easier. Use in conjunction with a webserver such as Flask
 
 ## Install
-> pip install d365-py
-
-or
-
-1. Download the master package
-2. Unzip it
-3. Run this at the root of the extracted directory
-> pip install .
+> pip install d365==0.0.1
 
 ## Examples
 
